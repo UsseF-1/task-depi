@@ -1,1 +1,17 @@
 Test
+
+517  git clone https://github.com/UsseF-1/task-depi.git
+518  cd task-depi/
+519  clear
+520  git init
+521  vim README.md
+522  vim commands
+523  history
+524  clear
+525  vim commands
+526  git status
+527  git add .
+528  git status
+529  git commit -m "First commit"
+530  git push
+
